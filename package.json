@@ -1,0 +1,19 @@
+{
+  "name": "atestado",
+  "version": "1.0.0",
+  "description": "Atestado App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakmod/Atestado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakmod/Atestado/issues"
+  },
+  "homepage": "https://github.com/Rakmod/Atestado#readme"
+}
